@@ -167,6 +167,15 @@ R: El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
 
 ![image](https://user-images.githubusercontent.com/105565683/176258917-4990658d-374e-4ced-be60-16382c560a97.png)
 
+## VIDEO
+
+
+
+## CONCLUSIONES
+
+- 
+
+## BIBLIOGRAFÍA 
 
 
 
