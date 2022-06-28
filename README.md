@@ -160,6 +160,13 @@ R: El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
 
 ![image](https://user-images.githubusercontent.com/105565683/176257571-37629460-9321-4c76-aa9d-de843b93b0e0.png)
 
+(a) Positivo (con respecto al otro extremo).
+(b) La fuerza inducida se opondrá al movimiento; es hacia abajo
+
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+![image](https://user-images.githubusercontent.com/105565683/176258917-4990658d-374e-4ced-be60-16382c560a97.png)
+
 
 
 
