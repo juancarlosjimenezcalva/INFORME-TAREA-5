@@ -467,7 +467,9 @@ El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
 
 ## CONCLUSIONES
 
-- 
+-	Para encontrar los valores de un circuito, principalmente corrientes, es útil utilizar un sistema de ecuaciones basándose en las leyes de Kirchhoff, de forma que se pueda resolver de forma matemática por medio de sustitución o determinantes.
+-	Los métodos de corrientes en ramas, corrientes en trayectorias cerradas y voltaje en nodos, se basan en las leyes de voltaje y corrientes de kirchooff, respetando las polaridades y reduciendo el problema a un sistema de ecuaciones.
+-	El magnetismo es el conjunto de fenómenos físicos mediados por campos magnéticos. Estos pueden ser generados por las corrientes eléctricas o por los momentos magnéticos de las partículas constituyentes de los materiales.
 
 ## BIBLIOGRAFÍA 
 
