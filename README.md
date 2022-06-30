@@ -2,11 +2,13 @@
 
 ## OBJETIVO GENERAL:
 
-
+Comprender el análisis de ramas, lazos y nodos, al mismo tiempo los conceptos y el funcionamiento del magnetismo y el electromagnetismo, por medio de la investigación en fuentes confiables, resolución de ejercicios de los temas antes previstos y la elaboración de un informe explicando los temas, para así lograr aplicar los métodos de corrientes en ramas y trayectorias cerradas, método de voltaje en nodos, y conceptos del magnetismo y electromagnetismo.
 
 ## OBJETIVOS ESPECÍFICOS: 
 
--	
+-	Explicar como plantear y resolver un sistema de ecuaciones en el análisis de circuitos.
+-	Demostrar los métodos de corrientes en ramas, corrientes en trayectorias cerradas y voltaje en nodos.
+-	Definir los conceptos de campo magnético, electromagnetismo, dispositivos electromagnéticos, histéresis magnética, inducción electromagnética, y sus aplicaciones.
 
 ## MARCO TEÓRICO:
 
