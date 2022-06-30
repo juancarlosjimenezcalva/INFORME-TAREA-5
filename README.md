@@ -471,9 +471,8 @@ El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
 
 ## BIBLIOGRAFÍA 
 
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
 
+Holzner, Steven. Physics II for dummies. Wiley Publishing. 2010.
 
-
-
-
-
+Sears, F., Zemansky, M., Young, H,D., Freedman, R.A. Física Universitaria con Física moderna volumen 2.12a edición. Pearson Educación, México 2009.
