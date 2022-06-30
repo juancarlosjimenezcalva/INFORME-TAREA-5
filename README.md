@@ -88,25 +88,25 @@ Resolución de ejercicios pares de los capítulos 9 y 10 del libro Principios de
 
 ![image](https://user-images.githubusercontent.com/105565683/176256765-1290707d-de4d-4fcb-8f75-5c25487a4bb6.png)
 
-1
+![image](https://user-images.githubusercontent.com/105565683/176737917-ee6c3746-235b-4721-8b77-6484266d7f90.png)
 
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/105565683/176256817-5808f093-e9ec-4369-a607-8c871e125226.png)
 
-1
+![image](https://user-images.githubusercontent.com/105565683/176737997-08129491-f108-4a32-a63e-2bda67583b7e.png)
 
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
 
 ![image](https://user-images.githubusercontent.com/105565683/176256861-8324c09e-9c21-44b5-b302-eb583477fd40.png)
 
-1
+![image](https://user-images.githubusercontent.com/105565683/176738213-0e42ac21-5af5-4f69-acaa-38a5375286a1.png)
 
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34
 
 ![image](https://user-images.githubusercontent.com/105565683/176256890-2290d056-2e7c-4196-b2b5-980a2c14af42.png)
 
-1
+![image](https://user-images.githubusercontent.com/105565683/176738795-ae4a9149-012b-4b87-86f4-048edf37310a.png)
 
 ### CAPITULO 10 MAGNETISMO Y ELECTROMAGNETISMO:
 
@@ -154,14 +154,13 @@ R: El voltaje inducido se duplica cuando la tasa de cambio del flujo magnético 
 
 20. Un campo magnético cambia a razón de 3500 x 10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
 
-R: El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
+![image](https://user-images.githubusercontent.com/105565683/176739128-fe180b14-73e0-48b1-a5f9-a12b65297c14.png)
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
 ![image](https://user-images.githubusercontent.com/105565683/176257571-37629460-9321-4c76-aa9d-de843b93b0e0.png)
 
-(a) Positivo (con respecto al otro extremo).
-(b) La fuerza inducida se opondrá al movimiento; es hacia abajo
+El campo magnético no cambia; por lo tanto, no hay voltaje inducido.
 
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
