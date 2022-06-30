@@ -100,7 +100,7 @@ Resolución de ejercicios pares de los capítulos 9 y 10 del libro Principios de
 
 ![image](https://user-images.githubusercontent.com/105565683/176256861-8324c09e-9c21-44b5-b302-eb583477fd40.png)
 
-![image](https://user-images.githubusercontent.com/105565683/176738213-0e42ac21-5af5-4f69-acaa-38a5375286a1.png)
+![image](https://user-images.githubusercontent.com/105565683/176739772-14d265fa-4f30-4c6a-89b2-cd9cd59afbe3.png)
 
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34
 
